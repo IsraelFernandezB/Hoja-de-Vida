@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo21.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1388">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1384" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1386" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1332">
+      <stop
+         style="stop-color:#666666;stop-opacity:0.00411523"
+         offset="0"
+         id="stop1328" />
+      <stop
+         style="stop-color:#666666;stop-opacity:0.97942388"
+         offset="1"
+         id="stop1330" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1306">
+      <stop
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0"
+         id="stop1302" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1304" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1133">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.87486267px;line-height:1.25;font-family:'Angsana New';-inkscape-font-specification:'Angsana New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.79689074"
+         x="51.254181"
+         y="133.13339"
+         id="text1137"
+         transform="scale(0.97503882,1.0256002)"><tspan
+           sodipodi:role="line"
+           id="tspan1135"
+           x="51.254181"
+           y="133.13339"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.87486267px;font-family:'Angsana New';-inkscape-font-specification:'Angsana New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:4.79689074">IF</tspan></text>
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1306"
+       id="radialGradient1308"
+       cx="118.98027"
+       cy="80.715706"
+       fx="118.98027"
+       fy="80.715706"
+       r="42.509647"
+       gradientTransform="matrix(-2.8637659,0.07571619,-0.07129596,-2.9026438,434.06244,342.9978)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1332"
+       id="radialGradient1334"
+       cx="102.72182"
+       cy="89.055763"
+       fx="102.72182"
+       fy="89.055763"
+       r="83.532738"
+       gradientTransform="matrix(1.10181,0,0,1.0475113,-19.163906,1.9864816)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1388"
+       id="radialGradient1390"
+       cx="207.24123"
+       cy="-133.43274"
+       fx="207.24123"
+       fy="-133.43274"
+       r="40.438221"
+       gradientTransform="matrix(0.52465447,-0.4538934,0.38405301,0.55523481,12.770094,-195.98617)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="334.47615"
+     inkscape:cy="699.99116"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="778"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="opacity:1;fill:url(#radialGradient1334);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1310"
+       cx="96.194939"
+       cy="112.35863"
+       rx="92.037201"
+       ry="87.501488" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:184.9871521px;line-height:1.25;font-family:'Angsana New';-inkscape-font-specification:'Angsana New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.62467909"
+       x="47.06871"
+       y="148.27592"
+       id="text1300"
+       transform="scale(0.98839409,1.0117422)"><tspan
+         sodipodi:role="line"
+         id="tspan1298"
+         x="47.06871"
+         y="148.27592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:184.9871521px;font-family:'Angsana New';-inkscape-font-specification:'Angsana New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:4.62467909">IF</tspan></text>
+    <text
+       transform="matrix(2.4088769,0,0.22506793,-0.41513121,0,0)"
+       id="text1382"
+       y="-363.19336"
+       x="53.007305"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.96563721px;line-height:1.25;font-family:'Angsana New';-inkscape-font-specification:'Angsana New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient1390);fill-opacity:1;stroke:none;stroke-width:1.87414122"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.96563721px;font-family:'Angsana New';-inkscape-font-specification:'Angsana New, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient1390);fill-opacity:1;stroke-width:1.87414122"
+         y="-363.19336"
+         x="53.007305"
+         id="tspan1380"
+         sodipodi:role="line">IF</tspan></text>
+  </g>
+</svg>
